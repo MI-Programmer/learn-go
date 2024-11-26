@@ -1,22 +1,22 @@
 package main
 
-func factorialLoop(num int) int {
-	result := 1
+// func factorialLoop(num int) int {
+// 	result := 1
 
-	for i := num; i > 0; i-- {
-		result *= i
-	}
+// 	for i := num; i > 0; i-- {
+// 		result *= i
+// 	}
 
-	return result
-}
+// 	return result
+// }
 
-func factorialRecursive(num int) int {
-	if num == 1 {
-		return 1
-	} else {
-		return num * factorialRecursive(num-1)
-	}
-}
+// func factorialRecursive(num int) int {
+// 	if num == 1 {
+// 		return 1
+// 	} else {
+// 		return num * factorialRecursive(num-1)
+// 	}
+// }
 
 // func isPalindrome(value string) bool {
 // 	length := len(value)

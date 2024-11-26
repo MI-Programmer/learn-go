@@ -49,15 +49,15 @@ package main
 // 	return name, age, isPass
 // }
 
-func sumAll(numbers ...int) int {
-	total := 0
+// func sumAll(numbers ...int) int {
+// 	total := 0
 
-	for _, number := range numbers {
-		total += number
-	}
+// 	for _, number := range numbers {
+// 		total += number
+// 	}
 
-	return total
-}
+// 	return total
+// }
 
 // func concat(strings ...string) string {
 // 	result := ""

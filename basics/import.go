@@ -3,9 +3,9 @@ package main
 // import (
 // 	"fmt"
 
-// 	"github.com/MI-Programmer/go-learn/go-basic/math"
-// 	// "github.com/MI-Programmer/go-learn/go-basic/router"
-// 	// "github.com/MI-Programmer/go-learn/go-basic/helper"
+// 	"github.com/MI-Programmer/learn-golang/basic-golang/math"
+// 	// "github.com/MI-Programmer/learn-golang/basic-golang/router"
+// 	// "github.com/MI-Programmer/learn-golang/basic-golang/helper"
 // )
 
 // func main() {
